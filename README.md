@@ -1,2 +1,2 @@
 # EmployeePayrollApp
-Ability to design a employee payroll app using html, CSS and javaScript
+Ability to design a employee payroll using html, CSS and javaScript
